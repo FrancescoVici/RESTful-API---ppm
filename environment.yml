@@ -1,0 +1,7 @@
+name: django
+dependencies:
+  - python=3.11.7
+  - django
+  - requests
+  - pip:
+    - -r file:requirements.txt
